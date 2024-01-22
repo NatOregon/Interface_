@@ -1,0 +1,8 @@
+PyQt5
+librosa
+numpy
+soundfile
+tensorflow
+sounddevice
+SpeechRecognition
+PyAudio
